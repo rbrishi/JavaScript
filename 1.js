@@ -4,4 +4,4 @@ const c = 11
 console.table([a, b]);
 b = 'a'
 a = 'f'
-console.table([a,b,c])
+console.log([a,b,c])
